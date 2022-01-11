@@ -11,7 +11,7 @@ I hava worked Artificial intelligence Engineer before.
 ## Skills
 
 
-### Languages & Platform
+### Languages & Framework(Library)
 
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
