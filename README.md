@@ -16,13 +16,9 @@ I hava worked Artificial intelligence Engineer before.
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-<br>
-
 ![React.js](http://img.shields.io/badge/React-61d9ff?style=flat-square&logo=react&logoColor=white)
 ![SpringFramework](http://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<!-- ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) -->
 
 <br>
 
