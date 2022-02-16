@@ -37,5 +37,6 @@ I hava worked Artificial intelligence Engineer before.
 
 ## ETC.
 
-[![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@htwenty-1)](https://velog.io/@htwenty-1)
+<!-- [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@htwenty-1)](https://velog.io/@htwenty-1) -->
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-e69500?style=flat-square&logo=Telegraph&logoColor=white&link=https://beautify-log.tistory.com)](https://beautify-log.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h2ne1.public@gmail.com)](mailto:h2ne1.public@gmail.com)
